@@ -7,7 +7,7 @@ palabra = 'tatiana'
 resultado = Counter(palabra)
 print(resultado)
 
-forma_2 = Counter('tatiana')
+forma_2 = Counter('tatiana caballero')
 resultado = forma_2.most_common(1)
 print(resultado)
 
